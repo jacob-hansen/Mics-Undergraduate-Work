@@ -1,2 +1,2 @@
 # Undergraduate-Work
-Small undergraduate projects for classes
+Compilation of Undergraduate Projects
