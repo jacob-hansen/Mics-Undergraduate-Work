@@ -4,3 +4,5 @@ Course Material Included:
 - Algorithmic paradigms including divide and conquer, dynamic programming, and greedy algorithms. 
 - Data structures including direct access arrays, linked lists, priority queues, hash tables, AVL-trees, dynamic arrays, balanced binary trees, heaps, and graphs. 
 
+</br></br>
+I've uploaded a few of my favorite examples from the class. 
