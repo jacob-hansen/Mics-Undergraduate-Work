@@ -1,6 +1,6 @@
 Course 6.009 Fundamentals of Programming: Designed to develop skills in applying basic methods from programming languages to abstract problems. Topics include programming and Python basics, computational concepts, software engineering, algorithmic techniques, data types, and recursion.  Lab component consists of software design, construction, and implementation of design.
 
-Major Labs included: 
+Labs were extensive coding assignments written from scratch. Major labs included: 
 - Image Processing: Blurring, sharpening, edge filters, minimum seam carving, color inversion, and vignette filters.
 - Boolean Satisfiability Solving: Assesses satifiability of logic problems and assignments. 
 - Word Trie: Simple language processing and text organization through custom word and sentence tries. 
