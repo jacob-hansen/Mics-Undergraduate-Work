@@ -8,7 +8,7 @@ import traceback
 from wsgiref.handlers import read_environ
 from wsgiref.simple_server import make_server
 
-import lab as lab
+import Snek_is_You as lab
 
 LOCATION = os.path.realpath(os.path.dirname(__file__))
 CURRENT_GAME = None
