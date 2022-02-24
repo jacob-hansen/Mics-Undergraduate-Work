@@ -1,2 +1,2 @@
 # Undergraduate-Work
-Compilation of Some Undergraduate Projects
+A Few of my Undergraduate Projects
